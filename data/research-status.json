@@ -1,0 +1,24 @@
+{
+  "project": "روحانی ڈھال",
+  "author": "مؤلف مفتی محمد سہیل البازی",
+  "target_unique_entries": 200,
+  "current_entries": 70,
+  "release_ready": false,
+  "policy": "Only unique, source-checked supplications may count toward the 200-entry target. Do not count duplicates, paraphrases, generic placeholders, or unverified narrations.",
+  "primary_reference_index": "https://sunnah.com/hisn",
+  "research_note": "اس نسخے میں 70 اندراجات ہیں۔ 14 اندراجات کے ساتھ صحیح/قرآنی/صحیح الإسناد کا درجہ درج ہے؛ 56 اندراجات تحقیق یا مزید تقابلی جانچ کے محتاج ہیں۔ 200 منفرد، ماخذ سے مکمل مقابلہ شدہ دعاؤں کا ہدف پورا نہیں ہوا۔",
+  "verified_new_from_latest_150": 11,
+  "received_sources": [
+    "حصن المسلم (اردو اسکین، 178 صفحات)",
+    "الكلم الطيب (104 صفحات)",
+    "morning_evening.txt",
+    "sleep.txt",
+    "travel.txt",
+    "food.txt",
+    "mosque.txt",
+    "doaa-for-dead-person.txt",
+    "doaa-for-all-death-people.txt"
+  ],
+  "verified_entries": 14,
+  "research_entries_remaining": 56
+}

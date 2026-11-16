@@ -1,0 +1,16 @@
+{
+  "total_unique_entries": 70,
+  "source_text_files_included": [
+    "morning_evening.txt",
+    "sleep.txt",
+    "travel.txt",
+    "food.txt",
+    "mosque.txt",
+    "doaa-for-dead-person.txt",
+    "doaa-for-all-death-people.txt"
+  ],
+  "deduplication": "Arabic text normalized; exact/near-identical repeats collapsed",
+  "research_warning": "Records marked تحقیق باقی require source verification before being described as authenticated.",
+  "verified_entries": 14,
+  "research_pending_entries": 56
+}

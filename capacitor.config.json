@@ -1,0 +1,11 @@
+{
+  "appId": "com.albazi.roohanidhaal",
+  "appName": "روحانی ڈھال",
+  "webDir": "dist",
+  "android": {
+    "allowMixedContent": false
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
